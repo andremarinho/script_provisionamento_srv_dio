@@ -4,7 +4,7 @@ echo "Primeira Etapa: Atualiza o servidor..."
 
 apt-get update
 apt-get upgrade -y
-apt-get install apachae2 -y
+apt-get install apache2 -y
 apt-get install unzip -y
 
 echo "Segunda etapa: Montando a aplicação"
